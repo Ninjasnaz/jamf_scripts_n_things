@@ -66,7 +66,7 @@ help    -   Displays help on BASH functions\
 
 ### File Management Commands in macOS
 pwd     -   Displays the current directory\
-cd      -   Changes the current directory\ 
+cd      -   Changes the current directory\
 ls      -   Lists files\
 file    -   Displays file type\
 locate  -   Finds files using a predefined database\
