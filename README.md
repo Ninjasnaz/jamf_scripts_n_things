@@ -32,10 +32,9 @@ http://docs.jamf.com/jamf-pro/administrator-guide/
 
 MacOS is a flavor of UNIX, similar to Linux. But unlike Linux, macOS does not support virtual terminals by default. Instead, you can use the Terminal app (/Applications/Utilities/Terminal) to obtain a command line terminal and BASH shell.
 
+However, typically most people consider iTerm to be superior to Terminal as it is full of functions and features that make life easier such as  split panes (Divide a tab up into multiple panes, each one showing a different session), Search, Automcomplete, Copy Mode and Configurability, to name a few.
 
-
-However, typically most people consider iTerm to be superior to Terminal as it is full of functions and features that make life easier such as  split panes (Divide a tab up into multiple panes, each one showing a different session), Search, Automcomplete, Copy Mode and Configurability, to name a few
-It be found at 'https://iterm2.com' and all of the features discussed at 'https://iterm2.com/features.html'
+It be found at https://iterm2.com and all of the features discussed at https://iterm2.com/features.html
 
 
 ## Random Bits of Knowledge
@@ -57,32 +56,32 @@ BASH control structures and functions may be used to create BASH shell scripts.
 
 
 ## Common macOS Commands
-Below are some common macOS commands, organized by general function. Bookmark this page so you can refer back to it often. Although most options to these commands are identical between Linux and macOS, be sure to view the manual page for commands that you will use in the future.
+Below are some common macOS commands, organized by general function.
 
 ### System Documentation Commands in macOS
-man Displays/searches the manual page database
-apropos Searches the manual page database by keyword
-info Displays/searches the info page database
-help Displays help on BASH functions
+man Displays/searches the manual page database\
+apropos Searches the manual page database by keyword\
+info Displays/searches the info page database\
+help Displays help on BASH functions\
 
 ### File Management Commands in macOS
-pwd Displays the current directory
-cd Changes the current directory
-ls Lists files
-file Displays file type
-locate Finds files using a predefined database
-which Searches the PATH variable for files
-find Finds files on the filesystem based on certain criteria
-cp Copies files and directories
-mv Moves/renames files and directories
-rm Removes files and directories
-rmdir Removes empty directories
-mkdir Creates empty directories
-ln Creates hard links; the –s option is used to create symbolic links
-chown Changes ownership for files and directories
-chgrp Changes group ownership for files and directories
-chmod Changes the permissions (mode) on files and directories
-umask Changes the UMASK variable used to determine default permissions
+pwd Displays the current directory\
+cd Changes the current directory\ 
+ls Lists files\ 
+file Displays file type\ 
+locate Finds files using a predefined database\ 
+which Searches the PATH variable for files\ 
+find Finds files on the filesystem based on certain criteria\ 
+cp Copies files and directories\
+mv Moves/renames files and directories\ 
+rm Removes files and directories\
+rmdir Removes empty directories\
+mkdir Creates empty directories\
+ln Creates hard links; the –s option is used to create symbolic links\ 
+chown Changes ownership for files and directories\ 
+chgrp Changes group ownership for files and directories\ 
+chmod Changes the permissions (mode) on files and directories\
+umask Changes the UMASK variable used to determine default permissions\
 
 ### Text Tools in macOS
 cat Views (concatenates) the contents of text files to the terminal screen
