@@ -119,18 +119,18 @@ Network devices have different names in macOS. The first ethernet adapter is cal
 Ensure that you use System Preferences to change any network parameters, as they are not stored in text files as they are on Linux systems. For example, the /etc/resolv.conf file still exists in macOS and lists DNS servers configured in System Preferences, but it is not used by the system – it is merely there in case an app queries it. 
 The only network-related file that is used actively and may be edited is /etc/hosts (for local host name resolution). Here are more network- and security-related commands in macOS.
 
-ifconfig    Displays and configures TCP/IP network interfaces\
-ping        Tests connectivity between hosts\
-whois        Queries domain name registration information\
-arp          Views and manages the address resolution protocol (ARP) cache\
-netstat      Views TCP/IP network statistics and the routing table\
-route        Manages the TCP/IP routing table\
-traceroute  Traces an IP packet across routers\
-hostname    Sets the system host name\
-host        Resolves host names to IP addresses and vice versa\
-nslookup    Resolves host names to IP addresses and vice versa\
-dig         Resolves host names to IP addresses and vice versa\
-su          Switches your user account to another account\
-sudo        Performs tasks as another user via entries in the /etc/sudoers file\
-last        Displays a detailed list of previous user logins\
-tcpdump     Captures packets on a network interface
+ifconfig   - Displays and configures TCP/IP network interfaces\
+ping       - Tests connectivity between hosts\
+whois      -  Queries domain name registration information\
+arp        -  Views and manages the address resolution protocol (ARP) cache\
+netstat    -  Views TCP/IP network statistics and the routing table\
+route      -  Manages the TCP/IP routing table\
+traceroute - Traces an IP packet across routers\
+hostname   - Sets the system host name\
+host       - Resolves host names to IP addresses and vice versa\
+nslookup   - Resolves host names to IP addresses and vice versa\
+dig        - Resolves host names to IP addresses and vice versa\
+su         - Switches your user account to another account\
+sudo       - Performs tasks as another user via entries in the /etc/sudoers file\
+last       - Displays a detailed list of previous user logins\
+tcpdump    - Captures packets on a network interface
