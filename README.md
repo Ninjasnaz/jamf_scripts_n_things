@@ -21,12 +21,12 @@ The scripts perform actions such as:
 The foolowing links from the **Jamf Pro Administrator's Guide**  will help get started: \
 [Computer Extension Attributes](http://docs.jamf.com/jamf-pro/administrator-guide/Computer_Extension_Attributes.html) \
 [Running Scripts](http://docs.jamf.com/jamf-pro/administrator-guide/Running_Scripts.html) \
-See those links for instructions on using these resources in your Jamf Pro installation.\
+See those links for instructions on using these resources in your Jamf Pro installation.
 
 
 #### Jamf Pro Administrator's Guide
 Official documentation on Jamf Pro.\
-http://docs.jamf.com/jamf-pro/administrator-guide/\
+http://docs.jamf.com/jamf-pro/administrator-guide/
 
 ## Basic MacOS things
 
@@ -98,7 +98,7 @@ awk     -   Edits and formats text using predefined functions\
 ·vi (vim) The vi text editor (common to all UNIX systems)\
 emacs The GNU Emacs text editor\
 ·nano   -   A small easy-to-use text editor based on the UNIX pico editor\
-micro   -   A superior text editor with mouse support that can be installed via Brew or .pkg\
+micro   -   A superior text editor with mouse support that can be installed via Brew or .pkg
 
 ### Filesystem Administration in macOS
 mount   -   Mounts a filesystem to a mount point directory – alternatively, you can use the mount_filesystem commands (where filesystem is the name of an appropriate filesystem) – see man mount for details.\
