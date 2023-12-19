@@ -67,19 +67,19 @@ help    -   Displays help on BASH functions\
 ### File Management Commands in macOS
 pwd     -   Displays the current directory\
 cd      -   Changes the current directory\ 
-ls      -   Lists files\ 
-file    -   Displays file type\ 
-locate  -   Finds files using a predefined database\ 
-which   -   Searches the PATH variable for files\ 
-find    -   Finds files on the filesystem based on certain criteria\ 
+ls      -   Lists files\
+file    -   Displays file type\
+locate  -   Finds files using a predefined database\
+which   -   Searches the PATH variable for files\
+find    -   Finds files on the filesystem based on certain criteria\
 cp      -   Copies files and directories\
-mv      -   Moves/renames files and directories\ 
+mv      -   Moves/renames files and directories\
 rm      -   Removes files and directories\
 rmdir   -   Removes empty directories\
 mkdir   -   Creates empty directories\
-ln      -   Creates hard links; the –s option is used to create symbolic links\ 
-chown   -   Changes ownership for files and directories\ 
-chgrp   -   Changes group ownership for files and directories\ 
+ln      -   Creates hard links; the –s option is used to create symbolic links\
+chown   -   Changes ownership for files and directories\
+chgrp   -   Changes group ownership for files and directories\
 chmod   -   Changes the permissions (mode) on files and directories\
 umask   -   Changes the UMASK variable used to determine default permissions\
 
