@@ -18,15 +18,15 @@ The scripts perform actions such as:
 
 
 ## Usage
-The foolowing links from the **Jamf Pro Administrator's Guide**  will help get started: 
-[Computer Extension Attributes](http://docs.jamf.com/jamf-pro/administrator-guide/Computer_Extension_Attributes.html) 
-[Running Scripts](http://docs.jamf.com/jamf-pro/administrator-guide/Running_Scripts.html) 
-See those links for instructions on using these resources in your Jamf Pro installation.
+The foolowing links from the **Jamf Pro Administrator's Guide**  will help get started: \
+[Computer Extension Attributes](http://docs.jamf.com/jamf-pro/administrator-guide/Computer_Extension_Attributes.html) \
+[Running Scripts](http://docs.jamf.com/jamf-pro/administrator-guide/Running_Scripts.html) \
+See those links for instructions on using these resources in your Jamf Pro installation.\
 
 
 #### Jamf Pro Administrator's Guide
-Official documentation on Jamf Pro.
-http://docs.jamf.com/jamf-pro/administrator-guide/
+Official documentation on Jamf Pro.\
+http://docs.jamf.com/jamf-pro/administrator-guide/\
 
 ## Basic MacOS things
 
